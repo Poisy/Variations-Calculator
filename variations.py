@@ -2,7 +2,7 @@
 # Variation - How many variations can be done
 # k - How many position to be used
 # n - The number of all posible positions
-# Example - How many 3 digit numbers you can create with the numbers [1, 2, 3, 4, 5] ? ==> V[3|5] = 5*4*3
+# Example - How many 3 digit numbers you can create with the numbers [1, 2, 3, 4, 5] ? ==> V[3|5] = 5*4*3 = 60 variations
 # Example Explain - V[k|n] = n*(n-1)*(n-2)...*(n-k+1)
 
 
